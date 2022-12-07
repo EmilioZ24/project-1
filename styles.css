@@ -65,7 +65,7 @@ h1, h2{
 
 .delete{
     float: right;
-    background: #9361bf;
+    background: red;
     padding: 6px;
     border-radius: 4px;
     cursor: pointer;
