@@ -44,22 +44,22 @@ h1, h2{
     color: #444;
 }
 
-#book-list, #add-book, #tabbed-content{
+#event-list, #add-event, #tabbed-content{
     margin: 30px;
 }
 
-#book-list ul, #tabbed-content ul{
+#event-list ul, #tabbed-content ul{
     list-style-type: none;
     padding: 0;
 }
 
-#book-list li{
+#event-list li{
     padding: 20px;
     border-left: 5px solid #ddd;
     margin: 20px 10px;
 }
 
-#book-list li:hover{
+#event-list li:hover{
     border-color: #9361bf;
 }
 
@@ -81,7 +81,7 @@ h1, h2{
     margin: 0 auto;
 }
 
-#add-book input{
+#add-event input{
     display: block;
     margin: 20px 0;
     padding: 10px;
@@ -93,7 +93,7 @@ h1, h2{
     float: left;
 }
 
-#add-book button{
+#add-event button{
     border: 1px solid #9361bf;
     background: #9361bf;
     padding: 10px 20px;
@@ -109,7 +109,7 @@ h1, h2{
     color: white;
 }
 
-#add-book:after{
+#add-event:after{
     content: '';
     display: block;
     clear: both;
