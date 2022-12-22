@@ -47,7 +47,7 @@ addForm.addEventListener('submit', function(e){
 });
 
 // hide 
- const hideBox = document.querySelector('#hide');
+ const hideBox = document.querySelector('#hide');a
 hideBox.addEventListener ('change', function(e){
 if(hideBox.checked){
 list.style.display = "none";
